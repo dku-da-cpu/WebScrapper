@@ -23,7 +23,7 @@ The web scraper can be used for:
 ## How to Install❓
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/web-scrapper.git
+    git clone https://github.com/greenbugx/WebScrapper.git
     ```
 2. Navigate to the project directory:
     ```bash
